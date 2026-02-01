@@ -19,7 +19,7 @@ from sklearn.metrics import accuracy_score
 st.set_page_config(page_title = "Titanic Survival Predictor", page_icon = "🚢", layout = "centered")  
 
 st.title("🚢 Titanic Survival Predictor") 
-st.write("Random Forest Classification with Coorelation Heatmap") 
+st.write("Random Forest Classification with Correlation Heatmap") 
 
 # Loading the dataset for the dataset analysis  
 
@@ -101,6 +101,7 @@ if st.button("Predict"):
 
 st.markdown("-----") 
 st.caption("Built with Streamlit and Sckikit-Learn") 
+
 
 
 
