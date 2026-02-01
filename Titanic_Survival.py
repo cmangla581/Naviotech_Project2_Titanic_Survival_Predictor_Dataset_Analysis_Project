@@ -80,7 +80,7 @@ st.subheader("🔮 Predict Survival")
 Pclass = st.selectbox("Passenger Class", [1,2,3]) 
 Sex = st.selectbox("Sex", ["male", "female"]) 
 Age = st.slider("Age", 1,80,25)  
-SibSp = st.number_input("siblings / Spouses aboard", 0,8,0) 
+SibSp = st.number_input("Siblings / Spouses aboard", 0,8,0) 
 Parch = st.number_input("Parents / Children aboard", 0,6,0) 
 Fare = st.number_input("Fare", 0.0, 600.0, 50.0) 
 
@@ -100,7 +100,8 @@ if st.button("Predict"):
         st.error(f"❌ Did Not Survive (Probability: {probability:.2f})") 
 
 st.markdown("-----") 
-st.caption("Built with Streamlit and Sckikit-Learn") 
+st.caption("Built with Streamlit and Scikit-Learn") 
+
 
 
 
