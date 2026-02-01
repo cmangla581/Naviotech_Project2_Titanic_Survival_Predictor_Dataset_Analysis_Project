@@ -11,6 +11,7 @@ The algorith I used was the Random Forest Classification Algorithm which uses th
 # Model Accuracy : 0.80 (80%)  
 
 The predictions here are made mainly on 6 parameters:
+   
    1.Passenger Class 
    
    2.Sex 
