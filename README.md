@@ -4,9 +4,9 @@ Titanic was the famous ship which sank in 1912 during its first journey after an
 How can we make the prediction of whether which passengers had survived after the hit and who were not able to survive. 
 This repository consist of the  Naviotech Project 2 where the analysis of the famous Titanic Dataset has been made and also a  Streamlit UI Predictor has been made  which is easily usable by the users. 
 
-In this project, I've used the Famous Titanic Dataset imported from Kaggle and I've done the analysis of the whole datset and also made a Streamlit UI Predictor, deployed on Streamlit Cloud Community. 
+In this project, I've used the Famous Titanic Dataset imported from Kaggle and I've done the analysis of the whole dataset and also made a Streamlit UI Predictor, deployed on Streamlit Cloud Community. 
 
-The algorith I used was the Random Forest Classification Algorithm which uses the Decision Trees to merge the outcomes and make predictions based on them. 
+The algorithm I used was the Random Forest Classification Algorithm which uses the Decision Trees to merge the outcomes and make predictions based on them. 
 
 # Model Accuracy : 0.80 (80%)  
 
