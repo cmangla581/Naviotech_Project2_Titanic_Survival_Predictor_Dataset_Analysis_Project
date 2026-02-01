@@ -12,12 +12,12 @@ The algorith I used was the Random Forest Classification Algorithm which uses th
 
 The predictions here are made mainly on 6 parameters:
   
-  1.Passenger Class 
-  2. Sex 
-  3. Siblings / Spouses Aboard (SibSp) 
-  4. Parents / Children Aboard (Parch) 
-  5. Age 
-  6. Fare  
+   1.Passenger Class 
+   2.Sex 
+   3.Siblings / Spouses Aboard (SibSp) 
+   4.Parents / Children Aboard (Parch) 
+   5.Age 
+   6.Fare  
 
 In the dataset Analysis, I also used the Embarked parameter, but removed it from the UI Predictor as it holds very less importance in prediction and increases the user's difficulty. 
 
